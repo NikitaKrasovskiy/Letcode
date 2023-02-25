@@ -1,3 +1,5 @@
+package dayOne;
+
 public class PivotNum {
     public static void main(String[] args) {
 

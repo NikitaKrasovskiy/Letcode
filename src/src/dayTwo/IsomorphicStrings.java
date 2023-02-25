@@ -1,3 +1,5 @@
+package dayTwo;
+
 import java.util.Arrays;
 
 public class IsomorphicStrings {

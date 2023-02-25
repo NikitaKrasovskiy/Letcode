@@ -1,3 +1,5 @@
+package dayOne;
+
 import java.util.Arrays;
 
 public class SumNum {
